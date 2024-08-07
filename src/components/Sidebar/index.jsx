@@ -108,8 +108,8 @@ export default function Sidebar() {
                 }}
                 src={
                   showProjects
-                    ? "/src/assets/arrow-down.svg"
-                    : "/src/assets/arrow-left.svg"
+                    ? "../../assets/arrow-down.svg"
+                    : "../../assets/arrow-left.svg"
                 }
                 alt=""
                 className="cursor-pointer w-[24px] h-[24px]"
